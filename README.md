@@ -27,4 +27,8 @@ Welcome to my GitHub profile! I am a Junior Software Engineer who started out as
 
 ## Repositories
 
+My repos contain Python projects made during my time at an online software engineering bootcamp including a portfolio of projects and a collaborated Capstone project. More projects are likely to come so keep an eye out.
+
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/jamie-cook-a1b5992a2/)
