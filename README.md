@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ## About
 
+Welcome to my GitHub profile! I am a Junior Software Engineer who started out as a university graduate in Music and is now eager to begin a career in tech. I am currently working on projects on Python and have already uploaded some that you can view. Also have proficiency in JavaScript.
+
 ## Repositories
 
 ## Links
