@@ -20,3 +20,9 @@ Here are some ideas to get you started:
  <source media="(prefers-color-scheme: light)" srcset="gitlight.png">
  <img alt="CODE" src="gitlight.png">
 </picture>
+
+## About
+
+## Repositories
+
+## Links
