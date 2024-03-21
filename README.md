@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="dark.png">
- <source media="(prefers-color-scheme: light)" srcset="light.png">
- <img alt="CODE" src="light.png">
+ <source media="(prefers-color-scheme: dark)" srcset="gitdark.png">
+ <source media="(prefers-color-scheme: light)" srcset="gitlight.png">
+ <img alt="CODE" src="gitlight.png">
 </picture>
