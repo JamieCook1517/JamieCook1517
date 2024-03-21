@@ -1,4 +1,4 @@
-### JamieCook1517 👋
+# JamieCook1517 👋
 
 <!--
 **JamieCook1517/JamieCook1517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="dark.png">
  <source media="(prefers-color-scheme: light)" srcset="light.png">
- <img alt="YOUR-ALT-TEXT" src="dark.png">
+ <img alt="CODE" src="light.png">
 </picture>
