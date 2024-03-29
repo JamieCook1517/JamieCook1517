@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a Junior Software Engineer who started out as
 
 ## Repositories
 
-My repos contain Python projects made during my time at an online software engineering bootcamp including a portfolio of projects and a collaborated Capstone project. More projects are likely to come so keep an eye out.
+My repos contain Python projects made during my time at an online software engineering bootcamp including a portfolio of projects and a collaborated Capstone project. I also have a repository of katas written with JavaScript. More projects are likely to come so keep an eye out.
 
 ## Links
 
